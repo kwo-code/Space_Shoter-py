@@ -1,6 +1,6 @@
 # Space_Shoter-py
 
-#Control:
+Control:
 W - shot
 1/2 - shot type
 A / D - move
